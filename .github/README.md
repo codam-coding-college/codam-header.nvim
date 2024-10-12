@@ -9,7 +9,7 @@ This extension provides the Codam header integration in Neovim. The original 42 
 #   neovim-codam-header                                :+:    :+:            #
 #                                                     +:+                    #
 #   By: fras <fras@student.codam.nl>                 +#+                     #
-#                                                    +#+                     #
+#                                                   +#+                      #
 #   Created: 2024/05/20 16:33:33 by fras          #+#    #+#                 #
 #   Updated: 2024/05/26 00:33:49 by fras          ########   odam.nl         #
 #                                                                            #
